@@ -1,6 +1,6 @@
 # 🎮 Maicol Adventure: The Platformer
 
-![Version](https://img.shields.io/badge/version-v0.1--alpha-blue.svg)
+![Version](https://img.shields.io/badge/version-v0.5.1--beta-blue.svg)
 ![Status](https://img.shields.io/badge/estado-en_desarrollo-orange.svg)
 ![License](https://img.shields.io/badge/licencia-MIT-green.svg)
 
